@@ -161,7 +161,7 @@ The plugin declares the following `peerDependencies`:
 ## Related Documentation
 
 - Chinese README: [`README.zh-CN.md`](./README.zh-CN.md)
-- External documentation: [https://docs.youchaoyun.com/cn/infrastructure/nocobase_plugin_extension/](https://docs.youchaoyun.com/cn/infrastructure/nocobase_plugin_extension/)
+- External documentation: [https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/](https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/)
 
 ## Noco Plugin Community
 
